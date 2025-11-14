@@ -25,6 +25,12 @@ import {
   RiCalendarLine,
 } from "@remixicon/react";
 
+export const NAV_LINKS = [
+  { text: "How it works", href: "#works" },
+  { text: "Pricing", href: "#pricing" },
+  { text: "Testimonials", href: "#testimonials" },
+];
+
 export const HERO_CONTENT = {
   badgeText: "🚀 New Feature: Stream Analytics 2.0 Now Live!",
   mainHeading: "The Ultimate \n Streaming Toolkit+",
