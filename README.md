@@ -1,5 +1,5 @@
 
-📦 Motion — Framer Motion Next.js Demo
+📦 Motion — Motion Next.js Demo
 
 Motion is a modern, animated Next.js demo project that showcases smooth, component-driven animations using Framer Motion. It combines the App Router, React components (TSX/JSX mix), and Tailwind/PostCSS for styling to deliver a responsive, production-ready UI scaffold.
 
